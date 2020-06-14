@@ -1,0 +1,28 @@
+@media(max-width: 1200px){
+	img {
+		max-width: 20%;
+		max-height: 20%;
+	}
+}
+
+@media(max-width: 1000px){
+	img {
+    	display: none;
+	}
+}
+
+@media(max-width: 540px){
+	.left-header {
+	    width: 30%;
+	}
+
+	.right-header {
+	    width: 70%;
+	}
+}
+
+@media(max-width: 380px){
+	.right-header {
+    	display: contents;
+	}
+}
