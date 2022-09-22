@@ -1,2 +1,0 @@
-# levpankov.github.io
-AAA
